@@ -1,4 +1,5 @@
 import socket
 from tkinter import *
 
-# Add main later
+window = Tk()
+# Under development.
